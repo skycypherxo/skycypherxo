@@ -40,7 +40,46 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
 </div>
 
 ## GitHub Stats 
-![Reimagined README](https://myreadme.vercel.app/api/embed/Vaishz?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishz&theme=tokyonight" alt="mystreak"/>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Vaishz/differ"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vaishz/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vaishz/differ?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vaishz/simple-sqlite"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vaishz/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vaishz/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Vaishz&theme=react-dark&hide_border=true&area=true)
+![Snake animation](https://github.com/Vaishz/github-readme/blob/output/github-contribution-snake.svg)
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Vaishz&theme=juicyfresh&no-bg=true)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6Noh1HVF223OAop5SVrua8)
+
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+
+<img src="https://profile-counter.glitch.me/Vaishz/count.svg" alt="Vaishz :: Visitor's Count" />
+
+<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 
