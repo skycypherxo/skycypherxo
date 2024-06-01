@@ -42,7 +42,6 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
 ## GitHub Stats 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaishz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishz&theme=tokyonight" alt="mystreak"/>
 
@@ -56,7 +55,8 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Vaishz/differ"><b>Differ</b></a></td>
+      <td><a href="https://github.com/Vaishz/differ">
+        <b>Differ</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Vaishz/differ?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Vaishz/differ?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -81,5 +81,5 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
 
 <img src="https://profile-counter.glitch.me/Vaishz/count.svg" alt="Vaishz :: Visitor's Count" />
 
-<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+<img src="https://img.shields.io/static/v1?label=stay&message=rad <3 &color=green?style=plastic&logo=appveyor" />
 
