@@ -41,3 +41,4 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
 
 ## GitHub Stats 
 <img src="https://myreadme.vercel.app/api/embed/yep.vaishz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yep.vaishz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
