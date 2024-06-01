@@ -45,31 +45,6 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishz&theme=tokyonight" alt="mystreak"/>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Vaishz/differ">
-        <b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vaishz/differ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vaishz/differ?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Vaishz/simple-sqlite"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Vaishz/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Vaishz/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Vaishz&theme=react-dark&hide_border=true&area=true)
-![Snake animation](https://github.com/Vaishz/github-readme/blob/output/github-contribution-snake.svg)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Vaishz&theme=juicyfresh&no-bg=true)
 
