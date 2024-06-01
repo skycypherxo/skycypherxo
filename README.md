@@ -26,4 +26,18 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" style="width: 60px; margin: 10px;">
   <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" style="width: 60px; margin: 10px;">
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" style="width: 60px; margin: 10px;">
+  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" style="width: 60px; margin: 10px;">
 </div>
+
+## GitHub Stats 
+<img src="https://myreadme.vercel.app/api/embed/yep.vaishz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
