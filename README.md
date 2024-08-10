@@ -52,12 +52,12 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
 
 ## GitHub Stats 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skycypherxo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishz&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skycypherxo&theme=tokyonight" alt="mystreak"/>
 
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Vaishz&theme=juicyfresh&no-bg=true)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=skycypherxo&theme=juicyfresh&no-bg=true)
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
@@ -65,7 +65,7 @@ I'm passionate about tech and coding! Here are some of the technologies I work w
 
 <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
-<img src="https://profile-counter.glitch.me/Vaishz/count.svg" alt="Vaishz :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/skycypherxo/count.svg" alt="Vaishz :: Visitor's Count" />
 
 <img src="https://img.shields.io/static/v1?label=stay&message=rad <3 &color=green?style=plastic&logo=appveyor" />
 
